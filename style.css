@@ -193,6 +193,10 @@ textarea::placeholder {
   align-items: center;
 }
 
+.btn_fc:hover {
+  color: #396dfa;
+}
+
 .xs-transparent_btn {
   background-color: transparent;
   border: transparent;
